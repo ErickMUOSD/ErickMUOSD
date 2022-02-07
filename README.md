@@ -6,10 +6,13 @@
 A self-motivated student enthusiast in Web Development and Mobile.
 </p>
 
+
+
 ## :technologist: I'm currently working on:
 
-- React Native app 
-- Collaborating to a flutter app
+
+- Collaborating on a flutter project 
+- React Native app
 
 
 ## ⚡ Tech Stack
