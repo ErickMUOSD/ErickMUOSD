@@ -8,9 +8,6 @@ A self-motivated student enthusiast in Web Development and Mobile.
 
 
 
-## :technologist: I'm currently working on:
-
--Online course academy
 
 
 ## ⚡ Tech Stack
