@@ -8,7 +8,8 @@ A self-motivated student enthusiast in Web Development and Mobile.
 
 
 
-
+Rank in [CODEWARS](https://www.codewars.com/users/ERICKMUOSD/completed)
+![](https://www.codewars.com/users/ERICKMUOSD/badges/large)
 
 ## ⚡ Tech Stack
 A few things that I've learnt along my learning journey.
