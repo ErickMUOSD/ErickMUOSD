@@ -8,7 +8,7 @@ A self-motivated student enthusiast in Web Development and Mobile.
 
 
 ## 🥇 Algorithm enthusiast
-![](https://www.codewars.com/users/ERICKMUOSD/badges/large)
+![](https://www.codewars.com/users/ERICKMUOSD/badges/large)&nbsp;
 Rank in [CODEWARS](https://www.codewars.com/users/ERICKMUOSD/completed)
 
 ## ⚡ Tech Stack
