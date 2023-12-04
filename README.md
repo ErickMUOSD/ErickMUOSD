@@ -3,7 +3,7 @@
 
 
 <p align="center">
-A self-motivated student enthusiast in Web Development and Mobile.
+A self-motivated student enthusiast in Cloud Computing and Web Development.
 </p>
 
 
