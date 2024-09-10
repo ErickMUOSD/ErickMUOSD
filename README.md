@@ -14,8 +14,8 @@ Rank in [CODEWARS](https://www.codewars.com/users/ERICKMUOSD/completed)
 ## 🥇 Love pay back to the community 
 <p align="center">
 Some notes that helped me to master my skills </p>
-1.- ![Aws Cloud Practitioner](https://cord-octopus-3b2.notion.site/Introduction-to-AWS-65424ebca6354c23981a6022f8c94b0a) 
-2.-  ![Data Structures and Algorithms](https://cord-octopus-3b2.notion.site/DSA-d1ce9e4110cc4d928e4e723da4e1ba81)
+1. ![Aws Cloud Practitioner](https://cord-octopus-3b2.notion.site/Introduction-to-AWS-65424ebca6354c23981a6022f8c94b0a) 
+2.  ![Data Structures and Algorithms](https://cord-octopus-3b2.notion.site/DSA-d1ce9e4110cc4d928e4e723da4e1ba81)
 
 ## ⚡ Tech Stack
 A few things that I've learnt along my learning journey.
