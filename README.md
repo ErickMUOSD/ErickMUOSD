@@ -12,17 +12,17 @@ A self-motivated student enthusiast in Cloud Computing and Web Development.
 <br>
 Rank in [CODEWARS](https://www.codewars.com/users/ERICKMUOSD/completed)
 ## 🥇 Love pay back to the community 
-<p align="center">
-Some notes that helped me to master my skills </p>
-1. ![Aws Cloud Practitioner](https://cord-octopus-3b2.notion.site/Introduction-to-AWS-65424ebca6354c23981a6022f8c94b0a) 
-2.  ![Data Structures and Algorithms](https://cord-octopus-3b2.notion.site/DSA-d1ce9e4110cc4d928e4e723da4e1ba81)
+
+Some notes that i made to  to master my skills 
+
+* ![Aws Cloud Practitioner](https://cord-octopus-3b2.notion.site/Introduction-to-AWS-65424ebca6354c23981a6022f8c94b0a) 
+*  ![Data Structures and Algorithms](https://cord-octopus-3b2.notion.site/DSA-d1ce9e4110cc4d928e4e723da4e1ba81)
 
 ## ⚡ Tech Stack
 A few things that I've learnt along my learning journey.
 
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
-![dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=blue) &nbsp;
-
+![AWS](https://img.shields.io/badge/aws-red?style=for-the-badge&logo=aws&logoColor=white) 
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-8362b4?style=for-the-badge&logo=laravel&logoColor=white) 
